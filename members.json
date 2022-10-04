@@ -17,6 +17,12 @@
         "lastname" : "Johnson",
         "age" : 23,
         "image": "nina.png"
+    },
+    {
+        "firstname" : "Freja",
+        "lastname" : "van Gilst",
+        "age" : 23,
+        "image": "nina.png"
     }
 ]
 }
