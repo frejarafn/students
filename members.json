@@ -22,7 +22,13 @@
         "firstname" : "Freja",
         "lastname" : "van Gilst",
         "age" : 23,
-        "image": "nina.png"
+        "image": "morten.png"
+    },
+    {
+        "firstname" : "Laura",
+        "lastname" : "Fast Petersen",
+        "age" : 24,
+        "image": "olivia.png"
     }
 ]
 }
